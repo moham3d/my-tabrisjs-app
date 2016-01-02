@@ -1,5 +1,5 @@
 {
-  "name": "Vaccines App",
+  "name": "VaccinesApp",
   "description": "MSD Egypt",
   "main": "app.js",
   "dependencies": {
