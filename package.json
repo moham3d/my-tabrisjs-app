@@ -3,6 +3,6 @@
   "description": "MSD Egypt",
   "main": "app.js",
   "dependencies": {
-    "tabris": "^1.5.0"
+    "tabris": "1.5.0"
   }
 }
